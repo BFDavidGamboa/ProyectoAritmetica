@@ -20,7 +20,7 @@ public class PruebaCaja {
 
 
         double volume = caja.calculateVolume();
-        System.out.println("Se calculo el volumen de la caja V= " + volume + " cm3");
+        System.out.println("Se calculo el volumen de la caja V=git " + volume + " cm3");
 
     }
 
